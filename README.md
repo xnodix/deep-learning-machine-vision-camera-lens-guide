@@ -9,4 +9,4 @@ Imagine that you were tasked with designing a machine vision system that will de
 Assuming the fab is capable of assemblying the components as small as 0603 (metric), which is equivalent to a rectngular shape with 0.6 x 0.3 mm size, we can take 0.3 mm as being the smallest defect that needs to be captured.
 In addition, we can assume the largest PCBA is
 
-<img src="RPi2.png">
+<img src="RPi2.jpg">
