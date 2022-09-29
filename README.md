@@ -109,5 +109,5 @@ Once we know the pixel size of the sensor as well as number of pixels in horizon
 [Camera and Lens guide.](https://docs.google.com/spreadsheets/d/1Z2F2R_iJZvdFtYngHKgEF5hhIu-o1xkFQkvjp5klu40/edit?usp=sharing).
 In our example, it looks like this:
 
-
+<img src="Lens.png">
 
