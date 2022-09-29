@@ -100,3 +100,14 @@ Here is a short list of popular Sony imaging sensors, and some specs:
 |IMX224|1.27M| |3.75|
 |ISX019|1.23M| |2.9|
 |ISX016|1.26M| |2.8|
+
+Since we need a sensor of at least 9.44 MP, IMX253LLR/LQR from the above list looks likea good candidate. There are many camera manufacturers that use Sony sensors, and some of the well known ones are TeledyneDalsa, AlliedVision, IDS Imaging, JAI, etc. Some of them might have a camera that incroporates this particular imaging sensor.
+
+## Lens Calculations
+
+Once we know the pixel size of the sensor as well as number of pixels in horizontal and vertical directions, we can calculate most lens parameters using
+[Camera and Lens guide.](https://docs.google.com/spreadsheets/d/1Z2F2R_iJZvdFtYngHKgEF5hhIu-o1xkFQkvjp5klu40/edit?usp=sharing).
+In our example, it looks like this:
+
+
+
