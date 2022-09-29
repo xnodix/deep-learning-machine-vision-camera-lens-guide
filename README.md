@@ -113,7 +113,7 @@ In our example, it looks like this:
 
 ## Lens Selection
 
-There are many lens manufacturers, and below is the list of some of the most popular ones together with some lens models and their specifications.
+There are many lens manufacturers, and below is the list of some of the most popular ones together with some lens models and their specifications. One common denominator for the lenses in the table below is that they are all C mount type, hence they will only work with C mount cameras, which is the most common mounting in the machine vision industry.
 
 |OEM|PN|Focal length [mm]|Resolution [MP]|Resolving power [lp / mm]|F. no|WD [mm]|Angle of View|Mount|Weight [g]|Sensor size [inches]|Pixel size [microns]|Dimensions [mm]|TV distortion [%]|Filter thread [mm]|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -254,3 +254,8 @@ There are many lens manufacturers, and below is the list of some of the most pop
 |Edmund Optics|83-160|25| | |F2.1-F16|200+|38.9 x |C|177|4/3| |d40 x 63.5| |M34 x 0.5|
 |Edmund Optics|83-165|50| | |F2.15-F16|275+| |C|565|4/3| |d54 x 112| |M43 x 0.75|
 
+Based on our lens calculations with a focal length of the lens being 12, using Fujinon's CF12ZA-1S lens will do the job.
+
+## Conlcusion
+
+If we want to design a machine vision system that can capture defects in PCBA mannufacturing such missing or skewed components, on a PCB board with dimensions of 85mm x 56mm plus given some random orientation (placemenet under the FOV of the camera/sensor), we can rest assured that using a camera which incorporates Sony's IMX253 sensor with Fujinon's CF12ZA-1S lens will do the job.
