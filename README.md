@@ -258,4 +258,6 @@ Based on our lens calculations with a focal length of the lens being 12, using F
 
 ## Conlcusion
 
-If we wanted to design a machine vision system that can capture defects in PCBA manufacturing such missing or skewed components, on a PCB board with dimensions of 85mm x 56mm plus some random orientation (placemenet under the FOV of the camera/sensor), we can rest assured that using a camera which incorporates Sony's IMX253 sensor with Fujinon's CF12ZA-1S lens will do the job.
+If we wanted to design a machine vision system that can capture defects in PCBA manufacturing such missing or skewed components, on a PCB board with dimensions of 85mm x 56mm plus some random orientation (placemenet under the FOV of the camera/sensor), we can rest assured that using a camera which incorporates Sony's IMX253 sensor with Fujinon's CF12ZA-1S lens will do the job. The following are optical characteristics of the MV system:
+
+<img src="Result.png">
